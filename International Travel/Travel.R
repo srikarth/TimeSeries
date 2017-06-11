@@ -326,8 +326,5 @@ accuracy(travel_forecast_arima)
 #We can see that the data has an upward trend but also seasonality is present
 #Since the trend is upward, the value of time series will increase in the next year
 
-#IF were you ,I would have given a A grade for the following reasons.
-#1 I have never missed your class
-#2 I  got the concepts clear , i was also able to succesfully implement Forecasting methods for my project in another Course.
-#3 I believe i did active participation in class ,i did take more effort to practice after class until i got the concepts clear.
+
 

@@ -322,7 +322,7 @@ accuracy(travel_forecast_arima)
 #5 Naive
 
 
-#Conculusion
+#Conclusion
 #We can see that the data has an upward trend but also seasonality is present
 #Since the trend is upward, the value of time series will increase in the next year
 
